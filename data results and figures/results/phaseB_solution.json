@@ -1,0 +1,2263 @@
+[
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 9,
+        "delivered_w": 2506.7093,
+        "delivered_v": 6.65072
+      }
+    ],
+    "cost": 426.4005024853698,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 26.400502485369827,
+      "penalty": 0.0,
+      "dist": 40.41385969690473,
+      "optimal_dep": 606
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 8,
+        "delivered_w": 2937.388405,
+        "delivered_v": 9.006755
+      }
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 8,
+        "delivered_w": 2937.388405,
+        "delivered_v": 9.006755
+      }
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 8,
+        "delivered_w": 2937.388405,
+        "delivered_v": 9.006755
+      }
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 8,
+        "delivered_w": 2937.388405,
+        "delivered_v": 9.006755
+      }
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 37,
+        "delivered_w": 564.949,
+        "delivered_v": 1.8194000000000001
+      },
+      {
+        "customer_id": 11,
+        "delivered_w": 1325.5301,
+        "delivered_v": 4.36316
+      },
+      {
+        "customer_id": 13,
+        "delivered_w": 540.0867999999999,
+        "delivered_v": 1.27918
+      }
+    ],
+    "cost": 467.1498696580002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 67.14986965800023,
+      "penalty": 0.0,
+      "dist": 101.59719814864054,
+      "optimal_dep": 505.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 6,
+        "delivered_w": 2236.8216,
+        "delivered_v": 5.991599999999999
+      }
+    ],
+    "cost": 446.8247651160583,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 46.82476511605833,
+      "penalty": 0.0,
+      "dist": 73.89070889322852,
+      "optimal_dep": 646.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 33,
+        "delivered_w": 527.2666,
+        "delivered_v": 1.37982
+      },
+      {
+        "customer_id": 6,
+        "delivered_w": 2236.8216,
+        "delivered_v": 5.991599999999999
+      }
+    ],
+    "cost": 458.3687441770103,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 58.36874417701028,
+      "penalty": 0.0,
+      "dist": 88.63076863443715,
+      "optimal_dep": 586.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 7,
+        "delivered_w": 2487.7442666666666,
+        "delivered_v": 6.078013333333334
+      }
+    ],
+    "cost": 442.297643685382,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 42.29764368538204,
+      "penalty": 0.0,
+      "dist": 65.96780471679166,
+      "optimal_dep": 761
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "visits": [
+      {
+        "customer_id": 7,
+        "delivered_w": 2487.7442666666666,
+        "delivered_v": 6.078013333333334
+      },
+      {
+        "customer_id": 90,
+        "delivered_w": 100.6088,
+        "delivered_v": 0.22653
+      },
+      {
+        "customer_id": 89,
+        "delivered_w": 46.248,
+        "delivered_v": 0.2733
+      },
+      {
+        "customer_id": 98,
+        "delivered_w": 25.5,
+        "delivered_v": 0.0646
+      },
+      {
+        "customer_id": 19,
+        "delivered_w": 9.3722,
+        "delivered_v": 0.07403
+      }
+    ],
+    "cost": 535.2937018338374,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 103.39993551145619,
+      "penalty": 31.89376632238126,
+      "dist": 174.191941542342,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 7,
+        "delivered_w": 2487.7442666666666,
+        "delivered_v": 6.078013333333334
+      }
+    ],
+    "cost": 593.2939535321468,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 193.29395353214682,
+      "penalty": 0.0,
+      "dist": 65.96780471679166,
+      "optimal_dep": 761
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 12,
+        "delivered_w": 1726.8416000000002,
+        "delivered_v": 4.3995500000000005
+      }
+    ],
+    "cost": 557.668546690724,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 156.93678767762623,
+      "penalty": 0.7317590130978147,
+      "dist": 56.86946994040444,
+      "optimal_dep": 895
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 16,
+        "delivered_w": 85.19999999999999,
+        "delivered_v": 0.1931
+      },
+      {
+        "customer_id": 76,
+        "delivered_w": 1256.3017,
+        "delivered_v": 3.94079
+      },
+      {
+        "customer_id": 4,
+        "delivered_w": 1443.5621,
+        "delivered_v": 3.40848
+      }
+    ],
+    "cost": 804.731067424555,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.10519671049286,
+      "penalty": 141.6258707140621,
+      "dist": 88.3963020713572,
+      "optimal_dep": 557
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 5,
+        "delivered_w": 731.6005,
+        "delivered_v": 2.31239
+      },
+      {
+        "customer_id": 10,
+        "delivered_w": 1879.9925,
+        "delivered_v": 7.278745
+      }
+    ],
+    "cost": 608.6967210453195,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 208.1243489938647,
+      "penalty": 0.5723720514547874,
+      "dist": 75.26245020640478,
+      "optimal_dep": 1168
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 10,
+        "delivered_w": 1879.9925,
+        "delivered_v": 7.278745
+      }
+    ],
+    "cost": 596.34930123647,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 196.34930123646996,
+      "penalty": 0.0,
+      "dist": 72.746258879176,
+      "optimal_dep": 1120.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 66,
+        "delivered_w": 2791.0139,
+        "delivered_v": 8.6796
+      }
+    ],
+    "cost": 608.0113541625266,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 208.0113541625266,
+      "penalty": 0.0,
+      "dist": 71.07110635720491,
+      "optimal_dep": 550
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 85,
+        "delivered_w": 593.8303,
+        "delivered_v": 1.42095
+      },
+      {
+        "customer_id": 35,
+        "delivered_w": 1692.5786,
+        "delivered_v": 3.88436
+      }
+    ],
+    "cost": 726.5398904327006,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 320.5569401480758,
+      "penalty": 5.982950284624886,
+      "dist": 113.49285470261266,
+      "optimal_dep": 531.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 79,
+        "delivered_w": 2315.13,
+        "delivered_v": 7.3665199999999995
+      }
+    ],
+    "cost": 643.5476425561216,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 243.5476425561216,
+      "penalty": 0.0,
+      "dist": 82.0527251692952,
+      "optimal_dep": 515.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 42,
+        "delivered_w": 2113.9337666666665,
+        "delivered_v": 5.0089733333333335
+      }
+    ],
+    "cost": 670.2640907289959,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 270.26409072899594,
+      "penalty": 0.0,
+      "dist": 95.6802832622095,
+      "optimal_dep": 554.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 42,
+        "delivered_w": 2113.9337666666665,
+        "delivered_v": 5.0089733333333335
+      }
+    ],
+    "cost": 670.2640907289959,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 270.26409072899594,
+      "penalty": 0.0,
+      "dist": 95.6802832622095,
+      "optimal_dep": 554.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 42,
+        "delivered_w": 2113.9337666666665,
+        "delivered_v": 5.0089733333333335
+      }
+    ],
+    "cost": 670.2640907289959,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 270.26409072899594,
+      "penalty": 0.0,
+      "dist": 95.6802832622095,
+      "optimal_dep": 554.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 60,
+        "delivered_w": 2476.6573,
+        "delivered_v": 6.5043975
+      }
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 60,
+        "delivered_w": 2476.6573,
+        "delivered_v": 6.5043975
+      }
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 60,
+        "delivered_w": 2476.6573,
+        "delivered_v": 6.5043975
+      }
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 60,
+        "delivered_w": 2476.6573,
+        "delivered_v": 6.5043975
+      }
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 38,
+        "delivered_w": 1261.7326,
+        "delivered_v": 4.06727
+      },
+      {
+        "customer_id": 46,
+        "delivered_w": 1659.91985,
+        "delivered_v": 5.44331
+      }
+    ],
+    "cost": 898.7499761790377,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 427.91239695647107,
+      "penalty": 70.83757922256666,
+      "dist": 147.2622823716889,
+      "optimal_dep": 552.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 87,
+        "delivered_w": 180.291,
+        "delivered_v": 0.46473
+      },
+      {
+        "customer_id": 46,
+        "delivered_w": 1659.91985,
+        "delivered_v": 5.44331
+      },
+      {
+        "customer_id": 32,
+        "delivered_w": 442.3342,
+        "delivered_v": 1.12524
+      },
+      {
+        "customer_id": 93,
+        "delivered_w": 97.6961,
+        "delivered_v": 0.33416999999999997
+      },
+      {
+        "customer_id": 97,
+        "delivered_w": 17.48,
+        "delivered_v": 0.04201
+      }
+    ],
+    "cost": 770.0674810679458,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 367.70828122021004,
+      "penalty": 2.3591998477358325,
+      "dist": 127.91796174075238,
+      "optimal_dep": 558.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 59,
+        "delivered_w": 2935.7956,
+        "delivered_v": 7.748356666666667
+      }
+    ],
+    "cost": 740.6012661059933,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 338.5404053298806,
+      "penalty": 2.060860776112728,
+      "dist": 114.19110034894338,
+      "optimal_dep": 555.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 59,
+        "delivered_w": 2935.7956,
+        "delivered_v": 7.748356666666667
+      }
+    ],
+    "cost": 740.6012661059933,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 338.5404053298806,
+      "penalty": 2.060860776112728,
+      "dist": 114.19110034894338,
+      "optimal_dep": 555.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 59,
+        "delivered_w": 2935.7956,
+        "delivered_v": 7.748356666666667
+      }
+    ],
+    "cost": 740.6012661059933,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 338.5404053298806,
+      "penalty": 2.060860776112728,
+      "dist": 114.19110034894338,
+      "optimal_dep": 555.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 70,
+        "delivered_w": 2837.3255,
+        "delivered_v": 8.182865
+      }
+    ],
+    "cost": 813.264232827282,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 381.2065848027423,
+      "penalty": 32.05764802453962,
+      "dist": 125.81525140588906,
+      "optimal_dep": 420.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 70,
+        "delivered_w": 2837.3255,
+        "delivered_v": 8.182865
+      }
+    ],
+    "cost": 813.264232827282,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 381.2065848027423,
+      "penalty": 32.05764802453962,
+      "dist": 125.81525140588906,
+      "optimal_dep": 420.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 86,
+        "delivered_w": 532.895,
+        "delivered_v": 2.84858
+      },
+      {
+        "customer_id": 82,
+        "delivered_w": 1493.082,
+        "delivered_v": 4.67276
+      },
+      {
+        "customer_id": 83,
+        "delivered_w": 926.8409,
+        "delivered_v": 2.79316
+      }
+    ],
+    "cost": 645.3056033485617,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 245.30560334856173,
+      "penalty": 0.0,
+      "dist": 79.80596662802273,
+      "optimal_dep": 606
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 61,
+        "delivered_w": 2004.6885,
+        "delivered_v": 6.13507
+      },
+      {
+        "customer_id": 94,
+        "delivered_w": 9.186,
+        "delivered_v": 0.01795
+      }
+    ],
+    "cost": 729.6777785447746,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 329.6777785447746,
+      "penalty": 0.0,
+      "dist": 119.44434581018646,
+      "optimal_dep": 617.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 30,
+        "delivered_w": 334.852,
+        "delivered_v": 0.73178
+      },
+      {
+        "customer_id": 61,
+        "delivered_w": 2004.6885,
+        "delivered_v": 6.13507
+      }
+    ],
+    "cost": 703.845259514853,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 303.34994207796063,
+      "penalty": 0.4953174368923404,
+      "dist": 110.50881659869458,
+      "optimal_dep": 677.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 61,
+        "delivered_w": 2004.6885,
+        "delivered_v": 6.13507
+      }
+    ],
+    "cost": 705.0675733567202,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 305.06757335672023,
+      "penalty": 0.0,
+      "dist": 110.47544706376503,
+      "optimal_dep": 677.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 88,
+        "delivered_w": 79.6007,
+        "delivered_v": 0.5374800000000001
+      },
+      {
+        "customer_id": 41,
+        "delivered_w": 2786.4185,
+        "delivered_v": 7.85191
+      }
+    ],
+    "cost": 597.0955315585302,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 197.09553155853013,
+      "penalty": 0.0,
+      "dist": 65.31484891261425,
+      "optimal_dep": 638.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 49,
+        "delivered_w": 2243.418,
+        "delivered_v": 6.769475
+      }
+    ],
+    "cost": 468.22066201139586,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 68.22066201139585,
+      "penalty": 0.0,
+      "dist": 25.164651615552646,
+      "optimal_dep": 786
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 49,
+        "delivered_w": 2243.418,
+        "delivered_v": 6.769475
+      }
+    ],
+    "cost": 468.22066201139586,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 68.22066201139585,
+      "penalty": 0.0,
+      "dist": 25.164651615552646,
+      "optimal_dep": 786
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 74,
+        "delivered_w": 1862.9861,
+        "delivered_v": 5.46936
+      }
+    ],
+    "cost": 623.7468603242427,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 223.74686032424265,
+      "penalty": 0.0,
+      "dist": 79.18090860475677,
+      "optimal_dep": 731.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 74,
+        "delivered_w": 1862.9861,
+        "delivered_v": 5.46936
+      }
+    ],
+    "cost": 623.7468603242427,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 223.74686032424265,
+      "penalty": 0.0,
+      "dist": 79.18090860475677,
+      "optimal_dep": 731.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 73,
+        "delivered_w": 2996.466,
+        "delivered_v": 7.5462
+      }
+    ],
+    "cost": 657.076553245593,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 257.07655324559306,
+      "penalty": 0.0,
+      "dist": 85.14203585580695,
+      "optimal_dep": 742.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 56,
+        "delivered_w": 2355.0536333333334,
+        "delivered_v": 5.909806666666667
+      }
+    ],
+    "cost": 663.7952093580166,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.7952093580166,
+      "penalty": 0.0,
+      "dist": 91.52418139977918,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 56,
+        "delivered_w": 2355.0536333333334,
+        "delivered_v": 5.909806666666667
+      }
+    ],
+    "cost": 663.7952093580166,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.7952093580166,
+      "penalty": 0.0,
+      "dist": 91.52418139977918,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 56,
+        "delivered_w": 2355.0536333333334,
+        "delivered_v": 5.909806666666667
+      }
+    ],
+    "cost": 663.7952093580166,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.7952093580166,
+      "penalty": 0.0,
+      "dist": 91.52418139977918,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 39,
+        "delivered_w": 2012.4458,
+        "delivered_v": 5.003585
+      },
+      {
+        "customer_id": 95,
+        "delivered_w": 109.35,
+        "delivered_v": 0.29746
+      },
+      {
+        "customer_id": 26,
+        "delivered_w": 45.813199999999995,
+        "delivered_v": 0.1362
+      }
+    ],
+    "cost": 768.8694267389719,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 363.61005696889276,
+      "penalty": 5.259369770079161,
+      "dist": 127.65599010779995,
+      "optimal_dep": 788.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 39,
+        "delivered_w": 2012.4458,
+        "delivered_v": 5.003585
+      }
+    ],
+    "cost": 751.6477825296612,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 351.6477825296612,
+      "penalty": 0.0,
+      "dist": 124.00272808603431,
+      "optimal_dep": 788.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 64,
+        "delivered_w": 2949.9224,
+        "delivered_v": 7.1290933333333335
+      }
+    ],
+    "cost": 613.2265112538347,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 210.75782365850432,
+      "penalty": 2.4686875953303415,
+      "dist": 74.07350682864686,
+      "optimal_dep": 789.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 64,
+        "delivered_w": 2949.9224,
+        "delivered_v": 7.1290933333333335
+      }
+    ],
+    "cost": 613.2265112538347,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 210.75782365850432,
+      "penalty": 2.4686875953303415,
+      "dist": 74.07350682864686,
+      "optimal_dep": 789.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 64,
+        "delivered_w": 2949.9224,
+        "delivered_v": 7.1290933333333335
+      }
+    ],
+    "cost": 613.2265112538347,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 210.75782365850432,
+      "penalty": 2.4686875953303415,
+      "dist": 74.07350682864686,
+      "optimal_dep": 789.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 58,
+        "delivered_w": 2933.964,
+        "delivered_v": 9.72773
+      }
+    ],
+    "cost": 593.3869006991133,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 193.38690069911337,
+      "penalty": 0.0,
+      "dist": 65.17826713211463,
+      "optimal_dep": 798.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 75,
+        "delivered_w": 1508.7203,
+        "delivered_v": 3.92876
+      },
+      {
+        "customer_id": 81,
+        "delivered_w": 1343.6123,
+        "delivered_v": 3.64803
+      }
+    ],
+    "cost": 749.4139522939411,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 333.8998765834058,
+      "penalty": 15.51407571053532,
+      "dist": 110.45870385909485,
+      "optimal_dep": 865
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 75,
+        "delivered_w": 1508.7203,
+        "delivered_v": 3.92876
+      }
+    ],
+    "cost": 687.6419661086588,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 287.6419661086589,
+      "penalty": 0.0,
+      "dist": 109.10992806679822,
+      "optimal_dep": 805.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 57,
+        "delivered_w": 2203.217666666667,
+        "delivered_v": 5.638176666666666
+      }
+    ],
+    "cost": 516.3577686431819,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 116.35776864318191,
+      "penalty": 0.0,
+      "dist": 41.27533934575872,
+      "optimal_dep": 878
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 57,
+        "delivered_w": 2203.217666666667,
+        "delivered_v": 5.638176666666666
+      }
+    ],
+    "cost": 516.3577686431819,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 116.35776864318191,
+      "penalty": 0.0,
+      "dist": 41.27533934575872,
+      "optimal_dep": 878
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 57,
+        "delivered_w": 2203.217666666667,
+        "delivered_v": 5.638176666666666
+      }
+    ],
+    "cost": 516.3577686431819,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 116.35776864318191,
+      "penalty": 0.0,
+      "dist": 41.27533934575872,
+      "optimal_dep": 878
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 92,
+        "delivered_w": 1524.5124999999998,
+        "delivered_v": 3.82045
+      }
+    ],
+    "cost": 464.62616318500056,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 64.62616318500059,
+      "penalty": 0.0,
+      "dist": 23.851986128209695,
+      "optimal_dep": 887
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 3,
+        "delivered_w": 235.0181,
+        "delivered_v": 0.70348
+      },
+      {
+        "customer_id": 52,
+        "delivered_w": 2238.4627333333333,
+        "delivered_v": 5.696406666666667
+      }
+    ],
+    "cost": 690.1099947849451,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 290.1099947849451,
+      "penalty": 0.0,
+      "dist": 97.5706750914603,
+      "optimal_dep": 813.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 52,
+        "delivered_w": 2238.4627333333333,
+        "delivered_v": 5.696406666666667
+      }
+    ],
+    "cost": 687.6084795246048,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 287.60847952460483,
+      "penalty": 0.0,
+      "dist": 97.40256218779045,
+      "optimal_dep": 845.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 52,
+        "delivered_w": 2238.4627333333333,
+        "delivered_v": 5.696406666666667
+      }
+    ],
+    "cost": 687.6084795246048,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 287.60847952460483,
+      "penalty": 0.0,
+      "dist": 97.40256218779045,
+      "optimal_dep": 845.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 36,
+        "delivered_w": 1654.62735,
+        "delivered_v": 5.15388
+      },
+      {
+        "customer_id": 24,
+        "delivered_w": 1262.1673,
+        "delivered_v": 2.9559900000000003
+      }
+    ],
+    "cost": 688.8890200779937,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 287.6941876205151,
+      "penalty": 1.194832457478545,
+      "dist": 96.20145048113784,
+      "optimal_dep": 891.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 36,
+        "delivered_w": 1654.62735,
+        "delivered_v": 5.15388
+      },
+      {
+        "customer_id": 29,
+        "delivered_w": 873.9449999999999,
+        "delivered_v": 2.04764
+      }
+    ],
+    "cost": 720.3922032579126,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 296.7589330103602,
+      "penalty": 23.63327024755248,
+      "dist": 102.97478198009752,
+      "optimal_dep": 856.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 45,
+        "delivered_w": 2899.9628,
+        "delivered_v": 9.206685
+      }
+    ],
+    "cost": 616.9620081309074,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 216.58206435201177,
+      "penalty": 0.37994377889564623,
+      "dist": 74.20812762332838,
+      "optimal_dep": 877.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 45,
+        "delivered_w": 2899.9628,
+        "delivered_v": 9.206685
+      }
+    ],
+    "cost": 616.9620081309074,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 216.58206435201177,
+      "penalty": 0.37994377889564623,
+      "dist": 74.20812762332838,
+      "optimal_dep": 877.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 69,
+        "delivered_w": 2288.8859,
+        "delivered_v": 6.06402
+      }
+    ],
+    "cost": 591.680355098605,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 191.680355098605,
+      "penalty": 0.0,
+      "dist": 63.52444268606925,
+      "optimal_dep": 886.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 63,
+        "delivered_w": 2897.6633333333334,
+        "delivered_v": 7.92595
+      }
+    ],
+    "cost": 635.6836527356002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 235.6836527356001,
+      "penalty": 0.0,
+      "dist": 78.39248820469412,
+      "optimal_dep": 892.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 63,
+        "delivered_w": 2897.6633333333334,
+        "delivered_v": 7.92595
+      }
+    ],
+    "cost": 635.6836527356002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 235.6836527356001,
+      "penalty": 0.0,
+      "dist": 78.39248820469412,
+      "optimal_dep": 892.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 63,
+        "delivered_w": 2897.6633333333334,
+        "delivered_v": 7.92595
+      }
+    ],
+    "cost": 635.6836527356002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 235.6836527356001,
+      "penalty": 0.0,
+      "dist": 78.39248820469412,
+      "optimal_dep": 892.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 65,
+        "delivered_w": 2184.1955666666668,
+        "delivered_v": 4.921436666666667
+      }
+    ],
+    "cost": 614.7095226932363,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.70952269323635,
+      "penalty": 0.0,
+      "dist": 74.11777079116746,
+      "optimal_dep": 897.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 65,
+        "delivered_w": 2184.1955666666668,
+        "delivered_v": 4.921436666666667
+      }
+    ],
+    "cost": 614.7095226932363,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.70952269323635,
+      "penalty": 0.0,
+      "dist": 74.11777079116746,
+      "optimal_dep": 897.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 65,
+        "delivered_w": 2184.1955666666668,
+        "delivered_v": 4.921436666666667
+      }
+    ],
+    "cost": 614.7095226932363,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.70952269323635,
+      "penalty": 0.0,
+      "dist": 74.11777079116746,
+      "optimal_dep": 897.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 48,
+        "delivered_w": 2866.2425333333335,
+        "delivered_v": 6.516393333333333
+      }
+    ],
+    "cost": 510.9605685615692,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 110.96056856156918,
+      "penalty": 0.0,
+      "dist": 34.82309196901953,
+      "optimal_dep": 906.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 48,
+        "delivered_w": 2866.2425333333335,
+        "delivered_v": 6.516393333333333
+      }
+    ],
+    "cost": 510.9605685615692,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 110.96056856156918,
+      "penalty": 0.0,
+      "dist": 34.82309196901953,
+      "optimal_dep": 906.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 48,
+        "delivered_w": 2866.2425333333335,
+        "delivered_v": 6.516393333333333
+      }
+    ],
+    "cost": 510.9605685615692,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 110.96056856156918,
+      "penalty": 0.0,
+      "dist": 34.82309196901953,
+      "optimal_dep": 906.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 84,
+        "delivered_w": 1605.2619000000002,
+        "delivered_v": 4.36803
+      }
+    ],
+    "cost": 731.790066167729,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 331.7900661677291,
+      "penalty": 0.0,
+      "dist": 117.09469343126385,
+      "optimal_dep": 854.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 25,
+        "delivered_w": 2528.1351,
+        "delivered_v": 5.33839
+      }
+    ],
+    "cost": 506.1342297132812,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 105.19702937453368,
+      "penalty": 0.9372003387474402,
+      "dist": 33.62280162413908,
+      "optimal_dep": 919.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 31,
+        "delivered_w": 2257.2069333333334,
+        "delivered_v": 5.148423333333334
+      }
+    ],
+    "cost": 602.0858700090191,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 189.74700950982773,
+      "penalty": 12.338860499191393,
+      "dist": 63.73386388339044,
+      "optimal_dep": 889.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 31,
+        "delivered_w": 2257.2069333333334,
+        "delivered_v": 5.148423333333334
+      }
+    ],
+    "cost": 602.0858700090191,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 189.74700950982773,
+      "penalty": 12.338860499191393,
+      "dist": 63.73386388339044,
+      "optimal_dep": 889.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 31,
+        "delivered_w": 2257.2069333333334,
+        "delivered_v": 5.148423333333334
+      }
+    ],
+    "cost": 602.0858700090191,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 189.74700950982773,
+      "penalty": 12.338860499191393,
+      "dist": 63.73386388339044,
+      "optimal_dep": 889.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 43,
+        "delivered_w": 2530.79035,
+        "delivered_v": 6.80844
+      }
+    ],
+    "cost": 597.8883299810459,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 197.8883299810459,
+      "penalty": 0.0,
+      "dist": 67.37613729795063,
+      "optimal_dep": 953.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 43,
+        "delivered_w": 2530.79035,
+        "delivered_v": 6.80844
+      }
+    ],
+    "cost": 597.8883299810459,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 197.8883299810459,
+      "penalty": 0.0,
+      "dist": 67.37613729795063,
+      "optimal_dep": 953.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 44,
+        "delivered_w": 2276.15445,
+        "delivered_v": 5.812015
+      }
+    ],
+    "cost": 585.0545427388219,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 185.05454273882182,
+      "penalty": 0.0,
+      "dist": 62.21230553767329,
+      "optimal_dep": 961.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 44,
+        "delivered_w": 2276.15445,
+        "delivered_v": 5.812015
+      }
+    ],
+    "cost": 585.0545427388219,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 185.05454273882182,
+      "penalty": 0.0,
+      "dist": 62.21230553767329,
+      "optimal_dep": 961.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 91,
+        "delivered_w": 70.435,
+        "delivered_v": 0.39102000000000003
+      },
+      {
+        "customer_id": 54,
+        "delivered_w": 2472.8861,
+        "delivered_v": 6.55764
+      }
+    ],
+    "cost": 734.9701592588373,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 334.97015925883727,
+      "penalty": 0.0,
+      "dist": 115.77989437352026,
+      "optimal_dep": 920.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 54,
+        "delivered_w": 2472.8861,
+        "delivered_v": 6.55764
+      }
+    ],
+    "cost": 770.9513065275653,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 341.79023740875283,
+      "penalty": 29.161069118812485,
+      "dist": 115.21616727499398,
+      "optimal_dep": 920.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 54,
+        "delivered_w": 2472.8861,
+        "delivered_v": 6.55764
+      }
+    ],
+    "cost": 770.9513065275653,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 341.79023740875283,
+      "penalty": 29.161069118812485,
+      "dist": 115.21616727499398,
+      "optimal_dep": 920.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 51,
+        "delivered_w": 1704.19215,
+        "delivered_v": 4.879655
+      },
+      {
+        "customer_id": 80,
+        "delivered_w": 506.3405000000001,
+        "delivered_v": 1.9028800000000001
+      }
+    ],
+    "cost": 629.5191880988747,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 201.869007950178,
+      "penalty": 27.65018014869664,
+      "dist": 72.89997440576388,
+      "optimal_dep": 941.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 51,
+        "delivered_w": 1704.19215,
+        "delivered_v": 4.879655
+      }
+    ],
+    "cost": 581.2722056004632,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 163.79683039641571,
+      "penalty": 17.475375204047356,
+      "dist": 57.933167096344604,
+      "optimal_dep": 933.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 27,
+        "delivered_w": 1616.80205,
+        "delivered_v": 3.819855
+      },
+      {
+        "customer_id": 34,
+        "delivered_w": 364.0498,
+        "delivered_v": 1.5211
+      }
+    ],
+    "cost": 711.3183615293002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 300.79184339695644,
+      "penalty": 10.526518132343767,
+      "dist": 104.76006690087931,
+      "optimal_dep": 951.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 27,
+        "delivered_w": 1616.80205,
+        "delivered_v": 3.819855
+      }
+    ],
+    "cost": 699.421447606895,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 288.89492947455113,
+      "penalty": 10.526518132343767,
+      "dist": 103.20466707684267,
+      "optimal_dep": 951.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 40,
+        "delivered_w": 2691.1358,
+        "delivered_v": 7.9507
+      }
+    ],
+    "cost": 675.8418869898684,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 275.8418869898684,
+      "penalty": 0.0,
+      "dist": 93.87650313842302,
+      "optimal_dep": 952.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 55,
+        "delivered_w": 2439.52946,
+        "delivered_v": 6.159698000000001
+      }
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 55,
+        "delivered_w": 2439.52946,
+        "delivered_v": 6.159698000000001
+      }
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 55,
+        "delivered_w": 2439.52946,
+        "delivered_v": 6.159698000000001
+      }
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 55,
+        "delivered_w": 2439.52946,
+        "delivered_v": 6.159698000000001
+      }
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 55,
+        "delivered_w": 2439.52946,
+        "delivered_v": 6.159698000000001
+      }
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 53,
+        "delivered_w": 2321.281966666667,
+        "delivered_v": 6.252913333333333
+      }
+    ],
+    "cost": 526.8656772404908,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 121.2673515859482,
+      "penalty": 5.5983256545425775,
+      "dist": 41.064306223456526,
+      "optimal_dep": 1019.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 53,
+        "delivered_w": 2321.281966666667,
+        "delivered_v": 6.252913333333333
+      }
+    ],
+    "cost": 526.8656772404908,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 121.2673515859482,
+      "penalty": 5.5983256545425775,
+      "dist": 41.064306223456526,
+      "optimal_dep": 1019.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 53,
+        "delivered_w": 2321.281966666667,
+        "delivered_v": 6.252913333333333
+      }
+    ],
+    "cost": 526.8656772404908,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 121.2673515859482,
+      "penalty": 5.5983256545425775,
+      "dist": 41.064306223456526,
+      "optimal_dep": 1019.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 68,
+        "delivered_w": 2471.6624666666667,
+        "delivered_v": 5.810966666666666
+      }
+    ],
+    "cost": 583.6023407798547,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 181.8737297642522,
+      "penalty": 1.728611015602534,
+      "dist": 63.43926977764675,
+      "optimal_dep": 1111
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 68,
+        "delivered_w": 2471.6624666666667,
+        "delivered_v": 5.810966666666666
+      }
+    ],
+    "cost": 583.6023407798547,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 181.8737297642522,
+      "penalty": 1.728611015602534,
+      "dist": 63.43926977764675,
+      "optimal_dep": 1111
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 68,
+        "delivered_w": 2471.6624666666667,
+        "delivered_v": 5.810966666666666
+      }
+    ],
+    "cost": 583.6023407798547,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 181.8737297642522,
+      "penalty": 1.728611015602534,
+      "dist": 63.43926977764675,
+      "optimal_dep": 1111
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 67,
+        "delivered_w": 2860.4382,
+        "delivered_v": 8.92494
+      }
+    ],
+    "cost": 668.8023856093635,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 268.8023856093634,
+      "penalty": 0.0,
+      "dist": 96.47252107480259,
+      "optimal_dep": 1132
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 47,
+        "delivered_w": 2784.5018,
+        "delivered_v": 8.09606
+      }
+    ],
+    "cost": 456.7324077566668,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 56.7324077566668,
+      "penalty": 0.0,
+      "dist": 19.52158724136878,
+      "optimal_dep": 1135
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 2,
+        "delivered_w": 14.89,
+        "delivered_v": 0.04317
+      },
+      {
+        "customer_id": 77,
+        "delivered_w": 1968.2667999999999,
+        "delivered_v": 5.09682
+      }
+    ],
+    "cost": 760.6084602046346,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 342.2039124465399,
+      "penalty": 18.404547758094736,
+      "dist": 121.42246656488793,
+      "optimal_dep": 953.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 62,
+        "delivered_w": 2934.7648000000004,
+        "delivered_v": 8.376146666666667
+      }
+    ],
+    "cost": 628.0659736413834,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.540635367872,
+      "penalty": 2.52533827351139,
+      "dist": 80.45460757701925,
+      "optimal_dep": 1151
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 62,
+        "delivered_w": 2934.7648000000004,
+        "delivered_v": 8.376146666666667
+      }
+    ],
+    "cost": 628.0659736413834,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.540635367872,
+      "penalty": 2.52533827351139,
+      "dist": 80.45460757701925,
+      "optimal_dep": 1151
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 62,
+        "delivered_w": 2934.7648000000004,
+        "delivered_v": 8.376146666666667
+      }
+    ],
+    "cost": 628.0659736413834,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.540635367872,
+      "penalty": 2.52533827351139,
+      "dist": 80.45460757701925,
+      "optimal_dep": 1151
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 72,
+        "delivered_w": 2725.3232,
+        "delivered_v": 7.50056
+      }
+    ],
+    "cost": 517.6737514263866,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 117.67375142638667,
+      "penalty": 0.0,
+      "dist": 40.25043925857129,
+      "optimal_dep": 1153
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 71,
+        "delivered_w": 1533.5344,
+        "delivered_v": 5.0218
+      }
+    ],
+    "cost": 643.830988392282,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 243.8309883922821,
+      "penalty": 0.0,
+      "dist": 91.99681001352964,
+      "optimal_dep": 1159
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 71,
+        "delivered_w": 1533.5344,
+        "delivered_v": 5.0218
+      }
+    ],
+    "cost": 643.830988392282,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 243.8309883922821,
+      "penalty": 0.0,
+      "dist": 91.99681001352964,
+      "optimal_dep": 1159
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 28,
+        "delivered_w": 1628.6557500000001,
+        "delivered_v": 3.98015
+      }
+    ],
+    "cost": 614.9946698736719,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.99466987367197,
+      "penalty": 0.0,
+      "dist": 81.29727352720946,
+      "optimal_dep": 1167
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 28,
+        "delivered_w": 1628.6557500000001,
+        "delivered_v": 3.98015
+      }
+    ],
+    "cost": 614.9946698736719,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.99466987367197,
+      "penalty": 0.0,
+      "dist": 81.29727352720946,
+      "optimal_dep": 1167
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 78,
+        "delivered_w": 1882.391,
+        "delivered_v": 4.7241
+      }
+    ],
+    "cost": 606.565079732112,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 206.5650797321121,
+      "penalty": 0.0,
+      "dist": 74.39032071634948,
+      "optimal_dep": 1134.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 50,
+        "delivered_w": 2650.7700333333332,
+        "delivered_v": 7.165916666666667
+      }
+    ],
+    "cost": 672.9537713355849,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 272.9537713355849,
+      "penalty": 0.0,
+      "dist": 97.65901344605075,
+      "optimal_dep": 1149.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 50,
+        "delivered_w": 2650.7700333333332,
+        "delivered_v": 7.165916666666667
+      }
+    ],
+    "cost": 672.9537713355849,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 272.9537713355849,
+      "penalty": 0.0,
+      "dist": 97.65901344605075,
+      "optimal_dep": 1149.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "visits": [
+      {
+        "customer_id": 50,
+        "delivered_w": 2650.7700333333332,
+        "delivered_v": 7.165916666666667
+      }
+    ],
+    "cost": 672.9537713355849,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 272.9537713355849,
+      "penalty": 0.0,
+      "dist": 97.65901344605075,
+      "optimal_dep": 1149.0
+    }
+  }
+]

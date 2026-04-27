@@ -1,0 +1,5 @@
+--- Data Quality Audit ---
+Total customers (excluding DC): 98
+Customers with zero demand: 10 (IDs: [1, 14, 15, 17, 18, 20, 21, 22, 23, 96])
+Distance matrix symmetric: True
+Green zone customers: 15

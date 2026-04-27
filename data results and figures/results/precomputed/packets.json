@@ -1,0 +1,1482 @@
+[
+  {
+    "task_id": 0,
+    "customer_id": 2,
+    "w": 14.89,
+    "v": 0.04317,
+    "tw_start": 1073,
+    "tw_end": 1129,
+    "is_green": true,
+    "service_time": 8.076827999999999
+  },
+  {
+    "task_id": 1,
+    "customer_id": 3,
+    "w": 235.0181,
+    "v": 0.70348,
+    "tw_start": 873,
+    "tw_end": 921,
+    "is_green": true,
+    "service_time": 9.2214644
+  },
+  {
+    "task_id": 2,
+    "customer_id": 4,
+    "w": 1443.5621,
+    "v": 3.40848,
+    "tw_start": 1169,
+    "tw_end": 1237,
+    "is_green": true,
+    "service_time": 15.137640400000002
+  },
+  {
+    "task_id": 3,
+    "customer_id": 5,
+    "w": 731.6005,
+    "v": 2.31239,
+    "tw_start": 1168,
+    "tw_end": 1226,
+    "is_green": true,
+    "service_time": 11.851358
+  },
+  {
+    "task_id": 4,
+    "customer_id": 6,
+    "w": 2236.8216,
+    "v": 5.991599999999999,
+    "tw_start": 706,
+    "tw_end": 779,
+    "is_green": true,
+    "service_time": 19.3439264
+  },
+  {
+    "task_id": 5,
+    "customer_id": 6,
+    "w": 2236.8216,
+    "v": 5.991599999999999,
+    "tw_start": 706,
+    "tw_end": 779,
+    "is_green": true,
+    "service_time": 19.3439264
+  },
+  {
+    "task_id": 6,
+    "customer_id": 7,
+    "w": 2487.7442666666666,
+    "v": 6.078013333333334,
+    "tw_start": 761,
+    "tw_end": 848,
+    "is_green": true,
+    "service_time": 20.3821824
+  },
+  {
+    "task_id": 7,
+    "customer_id": 7,
+    "w": 2487.7442666666666,
+    "v": 6.078013333333334,
+    "tw_start": 761,
+    "tw_end": 848,
+    "is_green": true,
+    "service_time": 20.3821824
+  },
+  {
+    "task_id": 8,
+    "customer_id": 7,
+    "w": 2487.7442666666666,
+    "v": 6.078013333333334,
+    "tw_start": 761,
+    "tw_end": 848,
+    "is_green": true,
+    "service_time": 20.3821824
+  },
+  {
+    "task_id": 9,
+    "customer_id": 8,
+    "w": 2937.388405,
+    "v": 9.006755,
+    "tw_start": 649,
+    "tw_end": 707,
+    "is_green": true,
+    "service_time": 23.35225562
+  },
+  {
+    "task_id": 10,
+    "customer_id": 8,
+    "w": 2937.388405,
+    "v": 9.006755,
+    "tw_start": 649,
+    "tw_end": 707,
+    "is_green": true,
+    "service_time": 23.35225562
+  },
+  {
+    "task_id": 11,
+    "customer_id": 8,
+    "w": 2937.388405,
+    "v": 9.006755,
+    "tw_start": 649,
+    "tw_end": 707,
+    "is_green": true,
+    "service_time": 23.35225562
+  },
+  {
+    "task_id": 12,
+    "customer_id": 8,
+    "w": 2937.388405,
+    "v": 9.006755,
+    "tw_start": 649,
+    "tw_end": 707,
+    "is_green": true,
+    "service_time": 23.35225562
+  },
+  {
+    "task_id": 13,
+    "customer_id": 9,
+    "w": 2506.7093,
+    "v": 6.65072,
+    "tw_start": 606,
+    "tw_end": 692,
+    "is_green": true,
+    "service_time": 20.687125200000004
+  },
+  {
+    "task_id": 14,
+    "customer_id": 10,
+    "w": 1879.9925,
+    "v": 7.278745,
+    "tw_start": 1180,
+    "tw_end": 1229,
+    "is_green": true,
+    "service_time": 18.431468000000002
+  },
+  {
+    "task_id": 15,
+    "customer_id": 10,
+    "w": 1879.9925,
+    "v": 7.278745,
+    "tw_start": 1180,
+    "tw_end": 1229,
+    "is_green": true,
+    "service_time": 18.431468000000002
+  },
+  {
+    "task_id": 16,
+    "customer_id": 11,
+    "w": 1325.5301,
+    "v": 4.36316,
+    "tw_start": 689,
+    "tw_end": 770,
+    "is_green": true,
+    "service_time": 15.0473844
+  },
+  {
+    "task_id": 17,
+    "customer_id": 12,
+    "w": 1726.8416000000002,
+    "v": 4.3995500000000005,
+    "tw_start": 895,
+    "tw_end": 950,
+    "is_green": true,
+    "service_time": 16.667186400000002
+  },
+  {
+    "task_id": 18,
+    "customer_id": 13,
+    "w": 540.0867999999999,
+    "v": 1.27918,
+    "tw_start": 730,
+    "tw_end": 786,
+    "is_green": true,
+    "service_time": 10.672019200000001
+  },
+  {
+    "task_id": 19,
+    "customer_id": 16,
+    "w": 85.19999999999999,
+    "v": 0.1931,
+    "tw_start": 557,
+    "tw_end": 641,
+    "is_green": false,
+    "service_time": 8.41804
+  },
+  {
+    "task_id": 20,
+    "customer_id": 19,
+    "w": 9.3722,
+    "v": 0.07403,
+    "tw_start": 1155,
+    "tw_end": 1228,
+    "is_green": false,
+    "service_time": 8.0671008
+  },
+  {
+    "task_id": 21,
+    "customer_id": 24,
+    "w": 1262.1673,
+    "v": 2.9559900000000003,
+    "tw_start": 1011,
+    "tw_end": 1096,
+    "is_green": false,
+    "service_time": 14.2310652
+  },
+  {
+    "task_id": 22,
+    "customer_id": 25,
+    "w": 2528.1351,
+    "v": 5.33839,
+    "tw_start": 979,
+    "tw_end": 1049,
+    "is_green": false,
+    "service_time": 20.247896400000002
+  },
+  {
+    "task_id": 23,
+    "customer_id": 26,
+    "w": 45.813199999999995,
+    "v": 0.1362,
+    "tw_start": 950,
+    "tw_end": 1032,
+    "is_green": false,
+    "service_time": 8.2377328
+  },
+  {
+    "task_id": 24,
+    "customer_id": 27,
+    "w": 1616.80205,
+    "v": 3.819855,
+    "tw_start": 1071,
+    "tw_end": 1147,
+    "is_green": false,
+    "service_time": 15.9951502
+  },
+  {
+    "task_id": 25,
+    "customer_id": 27,
+    "w": 1616.80205,
+    "v": 3.819855,
+    "tw_start": 1071,
+    "tw_end": 1147,
+    "is_green": false,
+    "service_time": 15.9951502
+  },
+  {
+    "task_id": 26,
+    "customer_id": 28,
+    "w": 1628.6557500000001,
+    "v": 3.98015,
+    "tw_start": 1167,
+    "tw_end": 1235,
+    "is_green": false,
+    "service_time": 16.106683
+  },
+  {
+    "task_id": 27,
+    "customer_id": 28,
+    "w": 1628.6557500000001,
+    "v": 3.98015,
+    "tw_start": 1167,
+    "tw_end": 1235,
+    "is_green": false,
+    "service_time": 16.106683
+  },
+  {
+    "task_id": 28,
+    "customer_id": 29,
+    "w": 873.9449999999999,
+    "v": 2.04764,
+    "tw_start": 1058,
+    "tw_end": 1143,
+    "is_green": false,
+    "service_time": 12.314836
+  },
+  {
+    "task_id": 29,
+    "customer_id": 30,
+    "w": 334.852,
+    "v": 0.73178,
+    "tw_start": 692,
+    "tw_end": 782,
+    "is_green": false,
+    "service_time": 9.63212
+  },
+  {
+    "task_id": 30,
+    "customer_id": 31,
+    "w": 2257.2069333333334,
+    "v": 5.148423333333334,
+    "tw_start": 1009,
+    "tw_end": 1066,
+    "is_green": false,
+    "service_time": 19.088197066666666
+  },
+  {
+    "task_id": 31,
+    "customer_id": 31,
+    "w": 2257.2069333333334,
+    "v": 5.148423333333334,
+    "tw_start": 1009,
+    "tw_end": 1066,
+    "is_green": false,
+    "service_time": 19.088197066666666
+  },
+  {
+    "task_id": 32,
+    "customer_id": 31,
+    "w": 2257.2069333333334,
+    "v": 5.148423333333334,
+    "tw_start": 1009,
+    "tw_end": 1066,
+    "is_green": false,
+    "service_time": 19.088197066666666
+  },
+  {
+    "task_id": 33,
+    "customer_id": 32,
+    "w": 442.3342,
+    "v": 1.12524,
+    "tw_start": 788,
+    "tw_end": 864,
+    "is_green": false,
+    "service_time": 10.2194328
+  },
+  {
+    "task_id": 34,
+    "customer_id": 33,
+    "w": 527.2666,
+    "v": 1.37982,
+    "tw_start": 646,
+    "tw_end": 731,
+    "is_green": false,
+    "service_time": 10.6609944
+  },
+  {
+    "task_id": 35,
+    "customer_id": 34,
+    "w": 364.0498,
+    "v": 1.5211,
+    "tw_start": 1135,
+    "tw_end": 1208,
+    "is_green": false,
+    "service_time": 10.0646392
+  },
+  {
+    "task_id": 36,
+    "customer_id": 35,
+    "w": 1692.5786,
+    "v": 3.88436,
+    "tw_start": 569,
+    "tw_end": 652,
+    "is_green": false,
+    "service_time": 16.3240584
+  },
+  {
+    "task_id": 37,
+    "customer_id": 36,
+    "w": 1654.62735,
+    "v": 5.15388,
+    "tw_start": 916,
+    "tw_end": 981,
+    "is_green": false,
+    "service_time": 16.6800614
+  },
+  {
+    "task_id": 38,
+    "customer_id": 36,
+    "w": 1654.62735,
+    "v": 5.15388,
+    "tw_start": 916,
+    "tw_end": 981,
+    "is_green": false,
+    "service_time": 16.6800614
+  },
+  {
+    "task_id": 39,
+    "customer_id": 37,
+    "w": 564.949,
+    "v": 1.8194000000000001,
+    "tw_start": 565,
+    "tw_end": 643,
+    "is_green": false,
+    "service_time": 10.987556
+  },
+  {
+    "task_id": 40,
+    "customer_id": 38,
+    "w": 1261.7326,
+    "v": 4.06727,
+    "tw_start": 628,
+    "tw_end": 694,
+    "is_green": false,
+    "service_time": 14.673838400000001
+  },
+  {
+    "task_id": 41,
+    "customer_id": 39,
+    "w": 2012.4458,
+    "v": 5.003585,
+    "tw_start": 848,
+    "tw_end": 900,
+    "is_green": false,
+    "service_time": 18.0512172
+  },
+  {
+    "task_id": 42,
+    "customer_id": 39,
+    "w": 2012.4458,
+    "v": 5.003585,
+    "tw_start": 848,
+    "tw_end": 900,
+    "is_green": false,
+    "service_time": 18.0512172
+  },
+  {
+    "task_id": 43,
+    "customer_id": 40,
+    "w": 2691.1358,
+    "v": 7.9507,
+    "tw_start": 1072,
+    "tw_end": 1144,
+    "is_green": false,
+    "service_time": 21.9448232
+  },
+  {
+    "task_id": 44,
+    "customer_id": 41,
+    "w": 2786.4185,
+    "v": 7.85191,
+    "tw_start": 758,
+    "tw_end": 831,
+    "is_green": false,
+    "service_time": 22.286438
+  },
+  {
+    "task_id": 45,
+    "customer_id": 42,
+    "w": 2113.9337666666665,
+    "v": 5.0089733333333335,
+    "tw_start": 614,
+    "tw_end": 681,
+    "is_green": false,
+    "service_time": 18.4593244
+  },
+  {
+    "task_id": 46,
+    "customer_id": 42,
+    "w": 2113.9337666666665,
+    "v": 5.0089733333333335,
+    "tw_start": 614,
+    "tw_end": 681,
+    "is_green": false,
+    "service_time": 18.4593244
+  },
+  {
+    "task_id": 47,
+    "customer_id": 42,
+    "w": 2113.9337666666665,
+    "v": 5.0089733333333335,
+    "tw_start": 614,
+    "tw_end": 681,
+    "is_green": false,
+    "service_time": 18.4593244
+  },
+  {
+    "task_id": 48,
+    "customer_id": 43,
+    "w": 2530.79035,
+    "v": 6.80844,
+    "tw_start": 1013,
+    "tw_end": 1097,
+    "is_green": false,
+    "service_time": 20.846537400000003
+  },
+  {
+    "task_id": 49,
+    "customer_id": 43,
+    "w": 2530.79035,
+    "v": 6.80844,
+    "tw_start": 1013,
+    "tw_end": 1097,
+    "is_green": false,
+    "service_time": 20.846537400000003
+  },
+  {
+    "task_id": 50,
+    "customer_id": 44,
+    "w": 2276.15445,
+    "v": 5.812015,
+    "tw_start": 1021,
+    "tw_end": 1109,
+    "is_green": false,
+    "service_time": 19.4294238
+  },
+  {
+    "task_id": 51,
+    "customer_id": 44,
+    "w": 2276.15445,
+    "v": 5.812015,
+    "tw_start": 1021,
+    "tw_end": 1109,
+    "is_green": false,
+    "service_time": 19.4294238
+  },
+  {
+    "task_id": 52,
+    "customer_id": 45,
+    "w": 2899.9628,
+    "v": 9.206685,
+    "tw_start": 937,
+    "tw_end": 996,
+    "is_green": false,
+    "service_time": 23.282525200000002
+  },
+  {
+    "task_id": 53,
+    "customer_id": 45,
+    "w": 2899.9628,
+    "v": 9.206685,
+    "tw_start": 937,
+    "tw_end": 996,
+    "is_green": false,
+    "service_time": 23.282525200000002
+  },
+  {
+    "task_id": 54,
+    "customer_id": 46,
+    "w": 1659.91985,
+    "v": 5.44331,
+    "tw_start": 672,
+    "tw_end": 731,
+    "is_green": false,
+    "service_time": 16.8170034
+  },
+  {
+    "task_id": 55,
+    "customer_id": 46,
+    "w": 1659.91985,
+    "v": 5.44331,
+    "tw_start": 672,
+    "tw_end": 731,
+    "is_green": false,
+    "service_time": 16.8170034
+  },
+  {
+    "task_id": 56,
+    "customer_id": 47,
+    "w": 2784.5018,
+    "v": 8.09606,
+    "tw_start": 1135,
+    "tw_end": 1195,
+    "is_green": false,
+    "service_time": 22.3764312
+  },
+  {
+    "task_id": 57,
+    "customer_id": 48,
+    "w": 2866.2425333333335,
+    "v": 6.516393333333333,
+    "tw_start": 966,
+    "tw_end": 1048,
+    "is_green": false,
+    "service_time": 22.07152746666667
+  },
+  {
+    "task_id": 58,
+    "customer_id": 48,
+    "w": 2866.2425333333335,
+    "v": 6.516393333333333,
+    "tw_start": 966,
+    "tw_end": 1048,
+    "is_green": false,
+    "service_time": 22.07152746666667
+  },
+  {
+    "task_id": 59,
+    "customer_id": 48,
+    "w": 2866.2425333333335,
+    "v": 6.516393333333333,
+    "tw_start": 966,
+    "tw_end": 1048,
+    "is_green": false,
+    "service_time": 22.07152746666667
+  },
+  {
+    "task_id": 60,
+    "customer_id": 49,
+    "w": 2243.418,
+    "v": 6.769475,
+    "tw_start": 786,
+    "tw_end": 842,
+    "is_green": false,
+    "service_time": 19.681462
+  },
+  {
+    "task_id": 61,
+    "customer_id": 49,
+    "w": 2243.418,
+    "v": 6.769475,
+    "tw_start": 786,
+    "tw_end": 842,
+    "is_green": false,
+    "service_time": 19.681462
+  },
+  {
+    "task_id": 62,
+    "customer_id": 50,
+    "w": 2650.7700333333332,
+    "v": 7.165916666666667,
+    "tw_start": 1209,
+    "tw_end": 1258,
+    "is_green": false,
+    "service_time": 21.469446800000004
+  },
+  {
+    "task_id": 63,
+    "customer_id": 50,
+    "w": 2650.7700333333332,
+    "v": 7.165916666666667,
+    "tw_start": 1209,
+    "tw_end": 1258,
+    "is_green": false,
+    "service_time": 21.469446800000004
+  },
+  {
+    "task_id": 64,
+    "customer_id": 50,
+    "w": 2650.7700333333332,
+    "v": 7.165916666666667,
+    "tw_start": 1209,
+    "tw_end": 1258,
+    "is_green": false,
+    "service_time": 21.469446800000004
+  },
+  {
+    "task_id": 65,
+    "customer_id": 51,
+    "w": 1704.19215,
+    "v": 4.879655,
+    "tw_start": 1053,
+    "tw_end": 1119,
+    "is_green": false,
+    "service_time": 16.768630599999998
+  },
+  {
+    "task_id": 66,
+    "customer_id": 51,
+    "w": 1704.19215,
+    "v": 4.879655,
+    "tw_start": 1053,
+    "tw_end": 1119,
+    "is_green": false,
+    "service_time": 16.768630599999998
+  },
+  {
+    "task_id": 67,
+    "customer_id": 52,
+    "w": 2238.4627333333333,
+    "v": 5.696406666666667,
+    "tw_start": 905,
+    "tw_end": 992,
+    "is_green": false,
+    "service_time": 19.2324136
+  },
+  {
+    "task_id": 68,
+    "customer_id": 52,
+    "w": 2238.4627333333333,
+    "v": 5.696406666666667,
+    "tw_start": 905,
+    "tw_end": 992,
+    "is_green": false,
+    "service_time": 19.2324136
+  },
+  {
+    "task_id": 69,
+    "customer_id": 52,
+    "w": 2238.4627333333333,
+    "v": 5.696406666666667,
+    "tw_start": 905,
+    "tw_end": 992,
+    "is_green": false,
+    "service_time": 19.2324136
+  },
+  {
+    "task_id": 70,
+    "customer_id": 53,
+    "w": 2321.281966666667,
+    "v": 6.252913333333333,
+    "tw_start": 1079,
+    "tw_end": 1132,
+    "is_green": false,
+    "service_time": 19.786293200000003
+  },
+  {
+    "task_id": 71,
+    "customer_id": 53,
+    "w": 2321.281966666667,
+    "v": 6.252913333333333,
+    "tw_start": 1079,
+    "tw_end": 1132,
+    "is_green": false,
+    "service_time": 19.786293200000003
+  },
+  {
+    "task_id": 72,
+    "customer_id": 53,
+    "w": 2321.281966666667,
+    "v": 6.252913333333333,
+    "tw_start": 1079,
+    "tw_end": 1132,
+    "is_green": false,
+    "service_time": 19.786293200000003
+  },
+  {
+    "task_id": 73,
+    "customer_id": 54,
+    "w": 2472.8861,
+    "v": 6.55764,
+    "tw_start": 1040,
+    "tw_end": 1124,
+    "is_green": false,
+    "service_time": 20.5146004
+  },
+  {
+    "task_id": 74,
+    "customer_id": 54,
+    "w": 2472.8861,
+    "v": 6.55764,
+    "tw_start": 1040,
+    "tw_end": 1124,
+    "is_green": false,
+    "service_time": 20.5146004
+  },
+  {
+    "task_id": 75,
+    "customer_id": 54,
+    "w": 2472.8861,
+    "v": 6.55764,
+    "tw_start": 1040,
+    "tw_end": 1124,
+    "is_green": false,
+    "service_time": 20.5146004
+  },
+  {
+    "task_id": 76,
+    "customer_id": 55,
+    "w": 2439.52946,
+    "v": 6.159698000000001,
+    "tw_start": 1075,
+    "tw_end": 1152,
+    "is_green": false,
+    "service_time": 20.22199704
+  },
+  {
+    "task_id": 77,
+    "customer_id": 55,
+    "w": 2439.52946,
+    "v": 6.159698000000001,
+    "tw_start": 1075,
+    "tw_end": 1152,
+    "is_green": false,
+    "service_time": 20.22199704
+  },
+  {
+    "task_id": 78,
+    "customer_id": 55,
+    "w": 2439.52946,
+    "v": 6.159698000000001,
+    "tw_start": 1075,
+    "tw_end": 1152,
+    "is_green": false,
+    "service_time": 20.22199704
+  },
+  {
+    "task_id": 79,
+    "customer_id": 55,
+    "w": 2439.52946,
+    "v": 6.159698000000001,
+    "tw_start": 1075,
+    "tw_end": 1152,
+    "is_green": false,
+    "service_time": 20.22199704
+  },
+  {
+    "task_id": 80,
+    "customer_id": 55,
+    "w": 2439.52946,
+    "v": 6.159698000000001,
+    "tw_start": 1075,
+    "tw_end": 1152,
+    "is_green": false,
+    "service_time": 20.22199704
+  },
+  {
+    "task_id": 81,
+    "customer_id": 56,
+    "w": 2355.0536333333334,
+    "v": 5.909806666666667,
+    "tw_start": 830,
+    "tw_end": 909,
+    "is_green": false,
+    "service_time": 19.784137200000004
+  },
+  {
+    "task_id": 82,
+    "customer_id": 56,
+    "w": 2355.0536333333334,
+    "v": 5.909806666666667,
+    "tw_start": 830,
+    "tw_end": 909,
+    "is_green": false,
+    "service_time": 19.784137200000004
+  },
+  {
+    "task_id": 83,
+    "customer_id": 56,
+    "w": 2355.0536333333334,
+    "v": 5.909806666666667,
+    "tw_start": 830,
+    "tw_end": 909,
+    "is_green": false,
+    "service_time": 19.784137200000004
+  },
+  {
+    "task_id": 84,
+    "customer_id": 57,
+    "w": 2203.217666666667,
+    "v": 5.638176666666666,
+    "tw_start": 878,
+    "tw_end": 959,
+    "is_green": false,
+    "service_time": 19.068141333333337
+  },
+  {
+    "task_id": 85,
+    "customer_id": 57,
+    "w": 2203.217666666667,
+    "v": 5.638176666666666,
+    "tw_start": 878,
+    "tw_end": 959,
+    "is_green": false,
+    "service_time": 19.068141333333337
+  },
+  {
+    "task_id": 86,
+    "customer_id": 57,
+    "w": 2203.217666666667,
+    "v": 5.638176666666666,
+    "tw_start": 878,
+    "tw_end": 959,
+    "is_green": false,
+    "service_time": 19.068141333333337
+  },
+  {
+    "task_id": 87,
+    "customer_id": 58,
+    "w": 2933.964,
+    "v": 9.72773,
+    "tw_start": 858,
+    "tw_end": 923,
+    "is_green": false,
+    "service_time": 23.626948
+  },
+  {
+    "task_id": 88,
+    "customer_id": 59,
+    "w": 2935.7956,
+    "v": 7.748356666666667,
+    "tw_start": 675,
+    "tw_end": 759,
+    "is_green": false,
+    "service_time": 22.842525066666667
+  },
+  {
+    "task_id": 89,
+    "customer_id": 59,
+    "w": 2935.7956,
+    "v": 7.748356666666667,
+    "tw_start": 675,
+    "tw_end": 759,
+    "is_green": false,
+    "service_time": 22.842525066666667
+  },
+  {
+    "task_id": 90,
+    "customer_id": 59,
+    "w": 2935.7956,
+    "v": 7.748356666666667,
+    "tw_start": 675,
+    "tw_end": 759,
+    "is_green": false,
+    "service_time": 22.842525066666667
+  },
+  {
+    "task_id": 91,
+    "customer_id": 60,
+    "w": 2476.6573,
+    "v": 6.5043975,
+    "tw_start": 623,
+    "tw_end": 696,
+    "is_green": false,
+    "service_time": 20.5083882
+  },
+  {
+    "task_id": 92,
+    "customer_id": 60,
+    "w": 2476.6573,
+    "v": 6.5043975,
+    "tw_start": 623,
+    "tw_end": 696,
+    "is_green": false,
+    "service_time": 20.5083882
+  },
+  {
+    "task_id": 93,
+    "customer_id": 60,
+    "w": 2476.6573,
+    "v": 6.5043975,
+    "tw_start": 623,
+    "tw_end": 696,
+    "is_green": false,
+    "service_time": 20.5083882
+  },
+  {
+    "task_id": 94,
+    "customer_id": 60,
+    "w": 2476.6573,
+    "v": 6.5043975,
+    "tw_start": 623,
+    "tw_end": 696,
+    "is_green": false,
+    "service_time": 20.5083882
+  },
+  {
+    "task_id": 95,
+    "customer_id": 61,
+    "w": 2004.6885,
+    "v": 6.13507,
+    "tw_start": 737,
+    "tw_end": 823,
+    "is_green": false,
+    "service_time": 18.472782000000002
+  },
+  {
+    "task_id": 96,
+    "customer_id": 61,
+    "w": 2004.6885,
+    "v": 6.13507,
+    "tw_start": 737,
+    "tw_end": 823,
+    "is_green": false,
+    "service_time": 18.472782000000002
+  },
+  {
+    "task_id": 97,
+    "customer_id": 61,
+    "w": 2004.6885,
+    "v": 6.13507,
+    "tw_start": 737,
+    "tw_end": 823,
+    "is_green": false,
+    "service_time": 18.472782000000002
+  },
+  {
+    "task_id": 98,
+    "customer_id": 62,
+    "w": 2934.7648000000004,
+    "v": 8.376146666666667,
+    "tw_start": 1151,
+    "tw_end": 1201,
+    "is_green": false,
+    "service_time": 23.089517866666668
+  },
+  {
+    "task_id": 99,
+    "customer_id": 62,
+    "w": 2934.7648000000004,
+    "v": 8.376146666666667,
+    "tw_start": 1151,
+    "tw_end": 1201,
+    "is_green": false,
+    "service_time": 23.089517866666668
+  },
+  {
+    "task_id": 100,
+    "customer_id": 62,
+    "w": 2934.7648000000004,
+    "v": 8.376146666666667,
+    "tw_start": 1151,
+    "tw_end": 1201,
+    "is_green": false,
+    "service_time": 23.089517866666668
+  },
+  {
+    "task_id": 101,
+    "customer_id": 63,
+    "w": 2897.6633333333334,
+    "v": 7.92595,
+    "tw_start": 952,
+    "tw_end": 1034,
+    "is_green": false,
+    "service_time": 22.761033333333337
+  },
+  {
+    "task_id": 102,
+    "customer_id": 63,
+    "w": 2897.6633333333334,
+    "v": 7.92595,
+    "tw_start": 952,
+    "tw_end": 1034,
+    "is_green": false,
+    "service_time": 22.761033333333337
+  },
+  {
+    "task_id": 103,
+    "customer_id": 63,
+    "w": 2897.6633333333334,
+    "v": 7.92595,
+    "tw_start": 952,
+    "tw_end": 1034,
+    "is_green": false,
+    "service_time": 22.761033333333337
+  },
+  {
+    "task_id": 104,
+    "customer_id": 64,
+    "w": 2949.9224,
+    "v": 7.1290933333333335,
+    "tw_start": 849,
+    "tw_end": 905,
+    "is_green": false,
+    "service_time": 22.651326933333333
+  },
+  {
+    "task_id": 105,
+    "customer_id": 64,
+    "w": 2949.9224,
+    "v": 7.1290933333333335,
+    "tw_start": 849,
+    "tw_end": 905,
+    "is_green": false,
+    "service_time": 22.651326933333333
+  },
+  {
+    "task_id": 106,
+    "customer_id": 64,
+    "w": 2949.9224,
+    "v": 7.1290933333333335,
+    "tw_start": 849,
+    "tw_end": 905,
+    "is_green": false,
+    "service_time": 22.651326933333333
+  },
+  {
+    "task_id": 107,
+    "customer_id": 65,
+    "w": 2184.1955666666668,
+    "v": 4.921436666666667,
+    "tw_start": 957,
+    "tw_end": 1043,
+    "is_green": false,
+    "service_time": 18.70535693333333
+  },
+  {
+    "task_id": 108,
+    "customer_id": 65,
+    "w": 2184.1955666666668,
+    "v": 4.921436666666667,
+    "tw_start": 957,
+    "tw_end": 1043,
+    "is_green": false,
+    "service_time": 18.70535693333333
+  },
+  {
+    "task_id": 109,
+    "customer_id": 65,
+    "w": 2184.1955666666668,
+    "v": 4.921436666666667,
+    "tw_start": 957,
+    "tw_end": 1043,
+    "is_green": false,
+    "service_time": 18.70535693333333
+  },
+  {
+    "task_id": 110,
+    "customer_id": 66,
+    "w": 2791.0139,
+    "v": 8.6796,
+    "tw_start": 550,
+    "tw_end": 633,
+    "is_green": false,
+    "service_time": 22.635895599999998
+  },
+  {
+    "task_id": 111,
+    "customer_id": 67,
+    "w": 2860.4382,
+    "v": 8.92494,
+    "tw_start": 1132,
+    "tw_end": 1216,
+    "is_green": false,
+    "service_time": 23.0117288
+  },
+  {
+    "task_id": 112,
+    "customer_id": 68,
+    "w": 2471.6624666666667,
+    "v": 5.810966666666666,
+    "tw_start": 1111,
+    "tw_end": 1188,
+    "is_green": false,
+    "service_time": 20.21103653333333
+  },
+  {
+    "task_id": 113,
+    "customer_id": 68,
+    "w": 2471.6624666666667,
+    "v": 5.810966666666666,
+    "tw_start": 1111,
+    "tw_end": 1188,
+    "is_green": false,
+    "service_time": 20.21103653333333
+  },
+  {
+    "task_id": 114,
+    "customer_id": 68,
+    "w": 2471.6624666666667,
+    "v": 5.810966666666666,
+    "tw_start": 1111,
+    "tw_end": 1188,
+    "is_green": false,
+    "service_time": 20.21103653333333
+  },
+  {
+    "task_id": 115,
+    "customer_id": 69,
+    "w": 2288.8859,
+    "v": 6.06402,
+    "tw_start": 946,
+    "tw_end": 1029,
+    "is_green": false,
+    "service_time": 19.581151600000002
+  },
+  {
+    "task_id": 116,
+    "customer_id": 70,
+    "w": 2837.3255,
+    "v": 8.182865,
+    "tw_start": 696,
+    "tw_end": 755,
+    "is_green": false,
+    "service_time": 22.622448000000002
+  },
+  {
+    "task_id": 117,
+    "customer_id": 70,
+    "w": 2837.3255,
+    "v": 8.182865,
+    "tw_start": 696,
+    "tw_end": 755,
+    "is_green": false,
+    "service_time": 22.622448000000002
+  },
+  {
+    "task_id": 118,
+    "customer_id": 71,
+    "w": 1533.5344,
+    "v": 5.0218,
+    "tw_start": 1159,
+    "tw_end": 1245,
+    "is_green": false,
+    "service_time": 16.1428576
+  },
+  {
+    "task_id": 119,
+    "customer_id": 71,
+    "w": 1533.5344,
+    "v": 5.0218,
+    "tw_start": 1159,
+    "tw_end": 1245,
+    "is_green": false,
+    "service_time": 16.1428576
+  },
+  {
+    "task_id": 120,
+    "customer_id": 72,
+    "w": 2725.3232,
+    "v": 7.50056,
+    "tw_start": 1153,
+    "tw_end": 1235,
+    "is_green": false,
+    "service_time": 21.9015168
+  },
+  {
+    "task_id": 121,
+    "customer_id": 73,
+    "w": 2996.466,
+    "v": 7.5462,
+    "tw_start": 802,
+    "tw_end": 857,
+    "is_green": false,
+    "service_time": 23.004344
+  },
+  {
+    "task_id": 122,
+    "customer_id": 74,
+    "w": 1862.9861,
+    "v": 5.46936,
+    "tw_start": 791,
+    "tw_end": 850,
+    "is_green": false,
+    "service_time": 17.6396884
+  },
+  {
+    "task_id": 123,
+    "customer_id": 74,
+    "w": 1862.9861,
+    "v": 5.46936,
+    "tw_start": 791,
+    "tw_end": 850,
+    "is_green": false,
+    "service_time": 17.6396884
+  },
+  {
+    "task_id": 124,
+    "customer_id": 75,
+    "w": 1508.7203,
+    "v": 3.92876,
+    "tw_start": 865,
+    "tw_end": 945,
+    "is_green": false,
+    "service_time": 15.606385200000002
+  },
+  {
+    "task_id": 125,
+    "customer_id": 75,
+    "w": 1508.7203,
+    "v": 3.92876,
+    "tw_start": 865,
+    "tw_end": 945,
+    "is_green": false,
+    "service_time": 15.606385200000002
+  },
+  {
+    "task_id": 126,
+    "customer_id": 76,
+    "w": 1256.3017,
+    "v": 3.94079,
+    "tw_start": 549,
+    "tw_end": 625,
+    "is_green": false,
+    "service_time": 14.6015228
+  },
+  {
+    "task_id": 127,
+    "customer_id": 77,
+    "w": 1968.2667999999999,
+    "v": 5.09682,
+    "tw_start": 1136,
+    "tw_end": 1217,
+    "is_green": false,
+    "service_time": 17.9117952
+  },
+  {
+    "task_id": 128,
+    "customer_id": 78,
+    "w": 1882.391,
+    "v": 4.7241,
+    "tw_start": 1194,
+    "tw_end": 1255,
+    "is_green": false,
+    "service_time": 17.419204
+  },
+  {
+    "task_id": 129,
+    "customer_id": 79,
+    "w": 2315.13,
+    "v": 7.3665199999999995,
+    "tw_start": 575,
+    "tw_end": 645,
+    "is_green": false,
+    "service_time": 20.207128
+  },
+  {
+    "task_id": 130,
+    "customer_id": 80,
+    "w": 506.3405000000001,
+    "v": 1.9028800000000001,
+    "tw_start": 1061,
+    "tw_end": 1114,
+    "is_green": false,
+    "service_time": 10.786514
+  },
+  {
+    "task_id": 131,
+    "customer_id": 81,
+    "w": 1343.6123,
+    "v": 3.64803,
+    "tw_start": 1024,
+    "tw_end": 1088,
+    "is_green": false,
+    "service_time": 14.833661200000002
+  },
+  {
+    "task_id": 132,
+    "customer_id": 82,
+    "w": 1493.082,
+    "v": 4.67276,
+    "tw_start": 701,
+    "tw_end": 782,
+    "is_green": false,
+    "service_time": 15.841432000000001
+  },
+  {
+    "task_id": 133,
+    "customer_id": 83,
+    "w": 926.8409,
+    "v": 2.79316,
+    "tw_start": 828,
+    "tw_end": 883,
+    "is_green": false,
+    "service_time": 12.824627600000001
+  },
+  {
+    "task_id": 134,
+    "customer_id": 84,
+    "w": 1605.2619000000002,
+    "v": 4.36803,
+    "tw_start": 974,
+    "tw_end": 1029,
+    "is_green": false,
+    "service_time": 16.168259600000003
+  },
+  {
+    "task_id": 135,
+    "customer_id": 85,
+    "w": 593.8303,
+    "v": 1.42095,
+    "tw_start": 591,
+    "tw_end": 662,
+    "is_green": false,
+    "service_time": 10.9437012
+  },
+  {
+    "task_id": 136,
+    "customer_id": 86,
+    "w": 532.895,
+    "v": 2.84858,
+    "tw_start": 606,
+    "tw_end": 695,
+    "is_green": false,
+    "service_time": 11.271011999999999
+  },
+  {
+    "task_id": 137,
+    "customer_id": 87,
+    "w": 180.291,
+    "v": 0.46473,
+    "tw_start": 678,
+    "tw_end": 762,
+    "is_green": false,
+    "service_time": 8.907056
+  },
+  {
+    "task_id": 138,
+    "customer_id": 88,
+    "w": 79.6007,
+    "v": 0.5374800000000001,
+    "tw_start": 604,
+    "tw_end": 679,
+    "is_green": false,
+    "service_time": 8.5333948
+  },
+  {
+    "task_id": 139,
+    "customer_id": 89,
+    "w": 46.248,
+    "v": 0.2733,
+    "tw_start": 971,
+    "tw_end": 1033,
+    "is_green": false,
+    "service_time": 8.294312
+  },
+  {
+    "task_id": 140,
+    "customer_id": 90,
+    "w": 100.6088,
+    "v": 0.22653,
+    "tw_start": 830,
+    "tw_end": 909,
+    "is_green": false,
+    "service_time": 8.4930472
+  },
+  {
+    "task_id": 141,
+    "customer_id": 91,
+    "w": 70.435,
+    "v": 0.39102000000000003,
+    "tw_start": 1000,
+    "tw_end": 1079,
+    "is_green": false,
+    "service_time": 8.438148
+  },
+  {
+    "task_id": 142,
+    "customer_id": 92,
+    "w": 1524.5124999999998,
+    "v": 3.82045,
+    "tw_start": 887,
+    "tw_end": 967,
+    "is_green": false,
+    "service_time": 15.626230000000001
+  },
+  {
+    "task_id": 143,
+    "customer_id": 93,
+    "w": 97.6961,
+    "v": 0.33416999999999997,
+    "tw_start": 772,
+    "tw_end": 854,
+    "is_green": false,
+    "service_time": 8.5244524
+  },
+  {
+    "task_id": 144,
+    "customer_id": 94,
+    "w": 9.186,
+    "v": 0.01795,
+    "tw_start": 763,
+    "tw_end": 837,
+    "is_green": false,
+    "service_time": 8.043924
+  },
+  {
+    "task_id": 145,
+    "customer_id": 95,
+    "w": 109.35,
+    "v": 0.29746,
+    "tw_start": 865,
+    "tw_end": 934,
+    "is_green": false,
+    "service_time": 8.556384
+  },
+  {
+    "task_id": 146,
+    "customer_id": 97,
+    "w": 17.48,
+    "v": 0.04201,
+    "tw_start": 822,
+    "tw_end": 911,
+    "is_green": false,
+    "service_time": 8.086724
+  },
+  {
+    "task_id": 147,
+    "customer_id": 98,
+    "w": 25.5,
+    "v": 0.0646,
+    "tw_start": 1158,
+    "tw_end": 1241,
+    "is_green": false,
+    "service_time": 8.12784
+  }
+]

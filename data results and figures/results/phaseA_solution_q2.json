@@ -1,0 +1,1671 @@
+[
+  {
+    "v_type": "E-3000",
+    "packets": [
+      13
+    ],
+    "cost": 426.4005024853698,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 26.400502485369827,
+      "penalty": 0.0,
+      "dist": 40.41385969690473,
+      "optimal_dep": 606
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      9
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      10
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      11
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      12
+    ],
+    "cost": 435.56947178748163,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 32.167841809358514,
+      "penalty": 3.4016299781231205,
+      "dist": 48.8043131343754,
+      "optimal_dep": 589.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      39,
+      16,
+      18
+    ],
+    "cost": 467.1498696580002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 67.14986965800023,
+      "penalty": 0.0,
+      "dist": 101.59719814864054,
+      "optimal_dep": 505.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      4
+    ],
+    "cost": 446.8247651160583,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 46.82476511605833,
+      "penalty": 0.0,
+      "dist": 73.89070889322852,
+      "optimal_dep": 646.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      34,
+      5
+    ],
+    "cost": 458.3687441770103,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 58.36874417701028,
+      "penalty": 0.0,
+      "dist": 88.63076863443715,
+      "optimal_dep": 586.0
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      6,
+      1
+    ],
+    "cost": 451.1232544181959,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 51.12325441819594,
+      "penalty": 0.0,
+      "dist": 80.30404330246239,
+      "optimal_dep": 761
+    }
+  },
+  {
+    "v_type": "E-3000",
+    "packets": [
+      7,
+      140,
+      139,
+      147,
+      20
+    ],
+    "cost": 535.2937018338374,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 103.39993551145619,
+      "penalty": 31.89376632238126,
+      "dist": 174.191941542342,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      8
+    ],
+    "cost": 849.9547039496495,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 200.10895916258227,
+      "penalty": 249.8457447870671,
+      "dist": 65.96780471679166,
+      "optimal_dep": 420.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      126,
+      17
+    ],
+    "cost": 665.8403826498784,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 227.2606228156526,
+      "penalty": 38.57975983422582,
+      "dist": 74.99468983672408,
+      "optimal_dep": 549
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      0,
+      2
+    ],
+    "cost": 609.7809017095263,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 190.26636323236045,
+      "penalty": 19.514538477165992,
+      "dist": 68.67769776447653,
+      "optimal_dep": 953.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      3,
+      14
+    ],
+    "cost": 608.6967210453195,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 208.1243489938647,
+      "penalty": 0.5723720514547874,
+      "dist": 75.26245020640478,
+      "optimal_dep": 1168
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      15
+    ],
+    "cost": 596.34930123647,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 196.34930123646996,
+      "penalty": 0.0,
+      "dist": 72.746258879176,
+      "optimal_dep": 1120.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      110
+    ],
+    "cost": 608.0113541625266,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 208.0113541625266,
+      "penalty": 0.0,
+      "dist": 71.07110635720491,
+      "optimal_dep": 550
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      135,
+      36
+    ],
+    "cost": 726.6360535880315,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 320.66926518511536,
+      "penalty": 5.966788402916108,
+      "dist": 113.52956640138446,
+      "optimal_dep": 531.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      129
+    ],
+    "cost": 643.5476425561216,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 243.5476425561216,
+      "penalty": 0.0,
+      "dist": 82.0527251692952,
+      "optimal_dep": 515.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      45
+    ],
+    "cost": 677.6422057471085,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 277.6422057471085,
+      "penalty": 0.0,
+      "dist": 98.31727121539906,
+      "optimal_dep": 554.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      46
+    ],
+    "cost": 677.6422057471085,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 277.6422057471085,
+      "penalty": 0.0,
+      "dist": 98.31727121539906,
+      "optimal_dep": 554.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      47
+    ],
+    "cost": 677.6422057471085,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 277.6422057471085,
+      "penalty": 0.0,
+      "dist": 98.31727121539906,
+      "optimal_dep": 554.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      91
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      92
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      93
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      94
+    ],
+    "cost": 466.7529190058248,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 66.75291900582482,
+      "penalty": 0.0,
+      "dist": 21.75727506450749,
+      "optimal_dep": 623
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      40,
+      54
+    ],
+    "cost": 898.7499761790377,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 427.91239695647107,
+      "penalty": 70.83757922256666,
+      "dist": 147.2622823716889,
+      "optimal_dep": 552.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      137,
+      55,
+      33,
+      143
+    ],
+    "cost": 768.3024012492689,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 365.94325333379595,
+      "penalty": 2.3591479154729313,
+      "dist": 127.9181407694179,
+      "optimal_dep": 558.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      88
+    ],
+    "cost": 740.6012661059933,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 338.5404053298806,
+      "penalty": 2.060860776112728,
+      "dist": 114.19110034894338,
+      "optimal_dep": 555.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      89
+    ],
+    "cost": 740.6012661059933,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 338.5404053298806,
+      "penalty": 2.060860776112728,
+      "dist": 114.19110034894338,
+      "optimal_dep": 555.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      90
+    ],
+    "cost": 740.6012661059933,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 338.5404053298806,
+      "penalty": 2.060860776112728,
+      "dist": 114.19110034894338,
+      "optimal_dep": 555.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      19,
+      116,
+      146
+    ],
+    "cost": 799.5334243369689,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 393.501725826176,
+      "penalty": 6.031698510792883,
+      "dist": 130.29040784303606,
+      "optimal_dep": 497.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      117
+    ],
+    "cost": 815.218555886373,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 383.52555075921055,
+      "penalty": 31.69300512716245,
+      "dist": 126.58061406342479,
+      "optimal_dep": 420.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      136,
+      132,
+      133
+    ],
+    "cost": 645.3056033485617,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 245.30560334856173,
+      "penalty": 0.0,
+      "dist": 79.80596662802273,
+      "optimal_dep": 606
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      95,
+      144
+    ],
+    "cost": 729.6777785447746,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 329.6777785447746,
+      "penalty": 0.0,
+      "dist": 119.44434581018646,
+      "optimal_dep": 617.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      29,
+      96
+    ],
+    "cost": 703.845259514853,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 303.34994207796063,
+      "penalty": 0.4953174368923404,
+      "dist": 110.50881659869458,
+      "optimal_dep": 677.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      97
+    ],
+    "cost": 705.0675733567202,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 305.06757335672023,
+      "penalty": 0.0,
+      "dist": 110.47544706376503,
+      "optimal_dep": 677.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      138,
+      44
+    ],
+    "cost": 597.0955315585302,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 197.09553155853013,
+      "penalty": 0.0,
+      "dist": 65.31484891261425,
+      "optimal_dep": 638.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      60
+    ],
+    "cost": 468.22066201139586,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 68.22066201139585,
+      "penalty": 0.0,
+      "dist": 25.164651615552646,
+      "optimal_dep": 786
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      61
+    ],
+    "cost": 468.22066201139586,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 68.22066201139585,
+      "penalty": 0.0,
+      "dist": 25.164651615552646,
+      "optimal_dep": 786
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      122
+    ],
+    "cost": 625.9757883618727,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.97578836187267,
+      "penalty": 0.0,
+      "dist": 79.9409755287443,
+      "optimal_dep": 731.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      123
+    ],
+    "cost": 625.9757883618727,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.97578836187267,
+      "penalty": 0.0,
+      "dist": 79.9409755287443,
+      "optimal_dep": 731.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      121
+    ],
+    "cost": 657.076553245593,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 257.07655324559306,
+      "penalty": 0.0,
+      "dist": 85.14203585580695,
+      "optimal_dep": 742.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      81
+    ],
+    "cost": 663.7952093580166,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.7952093580166,
+      "penalty": 0.0,
+      "dist": 91.52418139977918,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      82
+    ],
+    "cost": 663.7952093580166,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.7952093580166,
+      "penalty": 0.0,
+      "dist": 91.52418139977918,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      83
+    ],
+    "cost": 663.7952093580166,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 263.7952093580166,
+      "penalty": 0.0,
+      "dist": 91.52418139977918,
+      "optimal_dep": 770.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      41,
+      145,
+      23
+    ],
+    "cost": 772.0528594242769,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 365.78335524649424,
+      "penalty": 6.269504177782608,
+      "dist": 128.36947506770554,
+      "optimal_dep": 788.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      42
+    ],
+    "cost": 755.6658210464815,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 355.6658210464815,
+      "penalty": 0.0,
+      "dist": 125.42969800584545,
+      "optimal_dep": 788.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      104
+    ],
+    "cost": 613.2265112538347,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 210.75782365850432,
+      "penalty": 2.4686875953303415,
+      "dist": 74.07350682864686,
+      "optimal_dep": 789.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      105
+    ],
+    "cost": 613.2265112538347,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 210.75782365850432,
+      "penalty": 2.4686875953303415,
+      "dist": 74.07350682864686,
+      "optimal_dep": 789.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      106
+    ],
+    "cost": 613.2265112538347,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 210.75782365850432,
+      "penalty": 2.4686875953303415,
+      "dist": 74.07350682864686,
+      "optimal_dep": 789.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      87
+    ],
+    "cost": 593.3869006991133,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 193.38690069911337,
+      "penalty": 0.0,
+      "dist": 65.17826713211463,
+      "optimal_dep": 798.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      124,
+      131
+    ],
+    "cost": 749.4139522939411,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 333.8998765834058,
+      "penalty": 15.51407571053532,
+      "dist": 110.45870385909485,
+      "optimal_dep": 865
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      125
+    ],
+    "cost": 687.6419661086588,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 287.6419661086589,
+      "penalty": 0.0,
+      "dist": 109.10992806679822,
+      "optimal_dep": 805.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      84
+    ],
+    "cost": 516.3577686431819,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 116.35776864318191,
+      "penalty": 0.0,
+      "dist": 41.27533934575872,
+      "optimal_dep": 878
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      85
+    ],
+    "cost": 516.3577686431819,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 116.35776864318191,
+      "penalty": 0.0,
+      "dist": 41.27533934575872,
+      "optimal_dep": 878
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      86
+    ],
+    "cost": 516.3577686431819,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 116.35776864318191,
+      "penalty": 0.0,
+      "dist": 41.27533934575872,
+      "optimal_dep": 878
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      142
+    ],
+    "cost": 464.62616318500056,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 64.62616318500059,
+      "penalty": 0.0,
+      "dist": 23.851986128209695,
+      "optimal_dep": 887
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      67
+    ],
+    "cost": 692.7986634032094,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 292.7986634032094,
+      "penalty": 0.0,
+      "dist": 99.02452103564585,
+      "optimal_dep": 845.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      68
+    ],
+    "cost": 692.7986634032094,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 292.7986634032094,
+      "penalty": 0.0,
+      "dist": 99.02452103564585,
+      "optimal_dep": 845.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      69
+    ],
+    "cost": 692.7986634032094,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 292.7986634032094,
+      "penalty": 0.0,
+      "dist": 99.02452103564585,
+      "optimal_dep": 845.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      37,
+      21
+    ],
+    "cost": 688.8890200779937,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 287.6941876205151,
+      "penalty": 1.194832457478545,
+      "dist": 96.20145048113784,
+      "optimal_dep": 891.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      38,
+      28
+    ],
+    "cost": 720.3922032579126,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 296.7589330103602,
+      "penalty": 23.63327024755248,
+      "dist": 102.97478198009752,
+      "optimal_dep": 856.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      52
+    ],
+    "cost": 616.9620081309074,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 216.58206435201177,
+      "penalty": 0.37994377889564623,
+      "dist": 74.20812762332838,
+      "optimal_dep": 877.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      53
+    ],
+    "cost": 616.9620081309074,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 216.58206435201177,
+      "penalty": 0.37994377889564623,
+      "dist": 74.20812762332838,
+      "optimal_dep": 877.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      115
+    ],
+    "cost": 591.680355098605,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 191.680355098605,
+      "penalty": 0.0,
+      "dist": 63.52444268606925,
+      "optimal_dep": 886.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      101
+    ],
+    "cost": 635.6836527356002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 235.6836527356001,
+      "penalty": 0.0,
+      "dist": 78.39248820469412,
+      "optimal_dep": 892.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      102
+    ],
+    "cost": 635.6836527356002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 235.6836527356001,
+      "penalty": 0.0,
+      "dist": 78.39248820469412,
+      "optimal_dep": 892.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      103
+    ],
+    "cost": 635.6836527356002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 235.6836527356001,
+      "penalty": 0.0,
+      "dist": 78.39248820469412,
+      "optimal_dep": 892.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      107
+    ],
+    "cost": 614.7095226932363,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.70952269323635,
+      "penalty": 0.0,
+      "dist": 74.11777079116746,
+      "optimal_dep": 897.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      108
+    ],
+    "cost": 614.7095226932363,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.70952269323635,
+      "penalty": 0.0,
+      "dist": 74.11777079116746,
+      "optimal_dep": 897.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      109
+    ],
+    "cost": 614.7095226932363,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.70952269323635,
+      "penalty": 0.0,
+      "dist": 74.11777079116746,
+      "optimal_dep": 897.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      57
+    ],
+    "cost": 510.9605685615692,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 110.96056856156918,
+      "penalty": 0.0,
+      "dist": 34.82309196901953,
+      "optimal_dep": 906.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      58
+    ],
+    "cost": 510.9605685615692,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 110.96056856156918,
+      "penalty": 0.0,
+      "dist": 34.82309196901953,
+      "optimal_dep": 906.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      59
+    ],
+    "cost": 510.9605685615692,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 110.96056856156918,
+      "penalty": 0.0,
+      "dist": 34.82309196901953,
+      "optimal_dep": 906.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      134
+    ],
+    "cost": 731.9190544571693,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 331.9190544571693,
+      "penalty": 0.0,
+      "dist": 117.13919190503807,
+      "optimal_dep": 854.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      22
+    ],
+    "cost": 506.1342297132812,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 105.19702937453368,
+      "penalty": 0.9372003387474402,
+      "dist": 33.62280162413908,
+      "optimal_dep": 919.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      30
+    ],
+    "cost": 602.0858700090191,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 189.74700950982773,
+      "penalty": 12.338860499191393,
+      "dist": 63.73386388339044,
+      "optimal_dep": 889.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      31
+    ],
+    "cost": 602.0858700090191,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 189.74700950982773,
+      "penalty": 12.338860499191393,
+      "dist": 63.73386388339044,
+      "optimal_dep": 889.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      32
+    ],
+    "cost": 602.0858700090191,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 189.74700950982773,
+      "penalty": 12.338860499191393,
+      "dist": 63.73386388339044,
+      "optimal_dep": 889.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      48
+    ],
+    "cost": 597.8883299810459,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 197.8883299810459,
+      "penalty": 0.0,
+      "dist": 67.37613729795063,
+      "optimal_dep": 953.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      49
+    ],
+    "cost": 597.8883299810459,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 197.8883299810459,
+      "penalty": 0.0,
+      "dist": 67.37613729795063,
+      "optimal_dep": 953.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      50
+    ],
+    "cost": 585.0545427388219,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 185.05454273882182,
+      "penalty": 0.0,
+      "dist": 62.21230553767329,
+      "optimal_dep": 961.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      51
+    ],
+    "cost": 585.0545427388219,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 185.05454273882182,
+      "penalty": 0.0,
+      "dist": 62.21230553767329,
+      "optimal_dep": 961.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      141,
+      73
+    ],
+    "cost": 735.142427675994,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 335.142427675994,
+      "penalty": 0.0,
+      "dist": 115.83596650761964,
+      "optimal_dep": 920.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      74
+    ],
+    "cost": 771.7888755037127,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 342.21285923350126,
+      "penalty": 29.57601627021139,
+      "dist": 115.3361922894644,
+      "optimal_dep": 920.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      75
+    ],
+    "cost": 771.7888755037127,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 342.21285923350126,
+      "penalty": 29.57601627021139,
+      "dist": 115.3361922894644,
+      "optimal_dep": 920.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      65,
+      130
+    ],
+    "cost": 629.5191880988747,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 201.869007950178,
+      "penalty": 27.65018014869664,
+      "dist": 72.89997440576388,
+      "optimal_dep": 941.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      66
+    ],
+    "cost": 581.2722056004632,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 163.79683039641571,
+      "penalty": 17.475375204047356,
+      "dist": 57.933167096344604,
+      "optimal_dep": 933.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      24,
+      35
+    ],
+    "cost": 711.3183615293002,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 300.79184339695644,
+      "penalty": 10.526518132343767,
+      "dist": 104.76006690087931,
+      "optimal_dep": 951.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      25
+    ],
+    "cost": 699.421447606895,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 288.89492947455113,
+      "penalty": 10.526518132343767,
+      "dist": 103.20466707684267,
+      "optimal_dep": 951.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      43
+    ],
+    "cost": 675.8418869898684,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 275.8418869898684,
+      "penalty": 0.0,
+      "dist": 93.87650313842302,
+      "optimal_dep": 952.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      76
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      77
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      78
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      79
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      80
+    ],
+    "cost": 714.2428231543604,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 314.24282315436034,
+      "penalty": 0.0,
+      "dist": 108.27885110505107,
+      "optimal_dep": 955.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      70
+    ],
+    "cost": 526.8656772404908,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 121.2673515859482,
+      "penalty": 5.5983256545425775,
+      "dist": 41.064306223456526,
+      "optimal_dep": 1019.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      71
+    ],
+    "cost": 526.8656772404908,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 121.2673515859482,
+      "penalty": 5.5983256545425775,
+      "dist": 41.064306223456526,
+      "optimal_dep": 1019.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      72
+    ],
+    "cost": 526.8656772404908,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 121.2673515859482,
+      "penalty": 5.5983256545425775,
+      "dist": 41.064306223456526,
+      "optimal_dep": 1019.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      112
+    ],
+    "cost": 583.6023407798547,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 181.8737297642522,
+      "penalty": 1.728611015602534,
+      "dist": 63.43926977764675,
+      "optimal_dep": 1111
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      113
+    ],
+    "cost": 583.6023407798547,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 181.8737297642522,
+      "penalty": 1.728611015602534,
+      "dist": 63.43926977764675,
+      "optimal_dep": 1111
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      114
+    ],
+    "cost": 583.6023407798547,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 181.8737297642522,
+      "penalty": 1.728611015602534,
+      "dist": 63.43926977764675,
+      "optimal_dep": 1111
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      111
+    ],
+    "cost": 668.8023856093635,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 268.8023856093634,
+      "penalty": 0.0,
+      "dist": 96.47252107480259,
+      "optimal_dep": 1132
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      56
+    ],
+    "cost": 456.7324077566668,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 56.7324077566668,
+      "penalty": 0.0,
+      "dist": 19.52158724136878,
+      "optimal_dep": 1135
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      127
+    ],
+    "cost": 769.5643947952047,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 348.4137974378624,
+      "penalty": 21.15059735734235,
+      "dist": 120.9081743333116,
+      "optimal_dep": 1016.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      98
+    ],
+    "cost": 628.0659736413834,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.540635367872,
+      "penalty": 2.52533827351139,
+      "dist": 80.45460757701925,
+      "optimal_dep": 1151
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      99
+    ],
+    "cost": 628.0659736413834,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.540635367872,
+      "penalty": 2.52533827351139,
+      "dist": 80.45460757701925,
+      "optimal_dep": 1151
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      100
+    ],
+    "cost": 628.0659736413834,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 225.540635367872,
+      "penalty": 2.52533827351139,
+      "dist": 80.45460757701925,
+      "optimal_dep": 1151
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      120
+    ],
+    "cost": 517.6737514263866,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 117.67375142638667,
+      "penalty": 0.0,
+      "dist": 40.25043925857129,
+      "optimal_dep": 1153
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      118
+    ],
+    "cost": 643.830988392282,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 243.8309883922821,
+      "penalty": 0.0,
+      "dist": 91.99681001352964,
+      "optimal_dep": 1159
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      119
+    ],
+    "cost": 643.830988392282,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 243.8309883922821,
+      "penalty": 0.0,
+      "dist": 91.99681001352964,
+      "optimal_dep": 1159
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      26
+    ],
+    "cost": 614.9946698736719,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.99466987367197,
+      "penalty": 0.0,
+      "dist": 81.29727352720946,
+      "optimal_dep": 1167
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      27
+    ],
+    "cost": 614.9946698736719,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 214.99466987367197,
+      "penalty": 0.0,
+      "dist": 81.29727352720946,
+      "optimal_dep": 1167
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      128
+    ],
+    "cost": 606.565079732112,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 206.5650797321121,
+      "penalty": 0.0,
+      "dist": 74.39032071634948,
+      "optimal_dep": 1134.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      62
+    ],
+    "cost": 672.9537713355849,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 272.9537713355849,
+      "penalty": 0.0,
+      "dist": 97.65901344605075,
+      "optimal_dep": 1149.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      63
+    ],
+    "cost": 672.9537713355849,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 272.9537713355849,
+      "penalty": 0.0,
+      "dist": 97.65901344605075,
+      "optimal_dep": 1149.0
+    }
+  },
+  {
+    "v_type": "F-3000",
+    "packets": [
+      64
+    ],
+    "cost": 672.9537713355849,
+    "details": {
+      "fixed_cost": 400.0,
+      "energy_cost": 272.9537713355849,
+      "penalty": 0.0,
+      "dist": 97.65901344605075,
+      "optimal_dep": 1149.0
+    }
+  }
+]
